@@ -1,0 +1,7 @@
+.app {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 600px; /* Зменшення загальної ширини для всього додатку */
+    margin: 0 auto; /* Центруємо додаток на сторінці */
+  }
+  

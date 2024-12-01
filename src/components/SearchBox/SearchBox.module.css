@@ -1,0 +1,14 @@
+
+  .searchlabel {
+    margin-top: 20px; 
+    margin-bottom: 10px;
+    display: flex; 
+    flex-direction: column; 
+    gap: 10px; 
+  }
+  
+  .searchInput {
+    padding: 8px;
+    width: 95%;
+    margin-bottom: 10px;
+  }
